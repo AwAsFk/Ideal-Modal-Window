@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,SAAU;EACR,QAAQ,EAAE,KAAK;EACf,UAAU,EAAE,MAAM",
+"sources": ["partials/_whole.scss"],
+"names": [],
+"file": "main.css"
+}
