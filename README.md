@@ -5,3 +5,4 @@
 3. Width and height are fit in small browser
 4. Separate animations
 5. Scroll is not breaking when resizing
+6. Remove jQuery
